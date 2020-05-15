@@ -1,0 +1,1 @@
+window.addEventListener('load', () => console.log("Doument loaded. JavaScript on."))
